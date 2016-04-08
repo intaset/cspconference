@@ -195,7 +195,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Combustion<br>Science and Processes (CSP'17)</h1>
-          <p class="subhead">April 7 - 8, 2016 | Barcelona, Spain</p>
+          <p class="subhead">April 7 - 8, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -221,7 +221,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on Combustion<br>Science and Processes (CSP'17)</h1>
-          <p class="subhead">April 7 - 8, 2016 | Barcelona, Spain</p>
+          <p class="subhead">April 7 - 8, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -249,7 +249,7 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">CSP 2017:</p>
-      <p class="body">CSP 2017 will  be held in Barcelona, Spain on April 7 - 8, 2016.</p>
+      <p class="body">CSP 2017 will  be held in Barcelona, Spain on April 7 - 8, 2017.</p>
 
       <p class="bold">Poster Board Dimensions:</p>
       <p class="body">Authors presenting via poster boards are to be informed that poster boards are 110 cm height and 80 cm width.</p>
@@ -412,7 +412,7 @@ mail($my_email,$subject,$message,$headers);
 
 <div class="copyright">
   <a href="international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
-  <p class="body">&copy; Copyright International ASET Inc., 2016. All rights reserved.</p>
+  <p class="body">&copy; Copyright International ASET Inc., 2017. All rights reserved.</p>
   <p class="copyright1">Have any feedback? Please provide them here: <script>var refURL = window.location.protocol + "//" + window.location.host + window.location.pathname; document.write('<a href="http://international-aset.com/feedback/?refURL=' + refURL+'" class="body-link">Feedback</a>');</script></p>
 </div>
 </div>
